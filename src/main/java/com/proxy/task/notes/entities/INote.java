@@ -1,2 +1,4 @@
-package com.proxy.task.notes.entities;public interface INote {
+package com.proxy.task.notes.entities;
+
+public interface INote {
 }
